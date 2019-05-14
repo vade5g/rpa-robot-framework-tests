@@ -1,5 +1,5 @@
-location_id;location_name;contact_person;book
-0;Kamppi;your@email.here;
-1;Myllypuro;your@email.here;
-2;Ruoholahti;your@email.here;
-3;Viikki;your@email.here;
+location_id;location_name;contact_person
+0;Kamppi;your@email.here
+1;Myllypuro;your@email.here
+2;Ruoholahti;your@email.here
+3;Viikki;your@email.here
